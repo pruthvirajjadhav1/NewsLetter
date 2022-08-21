@@ -61,8 +61,4 @@ app.listen(process.env.PORT || 8000, function () {
   console.log("Server is running on Port: 8000");
 });
 
-// APIkey
-// 6b49395729f801c6b0207a309f98f2dc-us18
 
-//Audiance ID
-// 3eebd4449f
